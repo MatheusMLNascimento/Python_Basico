@@ -1,0 +1,8 @@
+print("Calculadora")
+print()
+print("Multiplicação:")
+N1 = int(input("Insira o primeiro número: "))
+N2 = int(input("Insira o segundo número: "))
+print()
+print("Resultado:")
+print(N1 * N2)

@@ -1,0 +1,30 @@
+print("Calculadora")
+print()
+print("Multiplicação:")
+N1 = int(input("Insira o primeiro número: "))
+N2 = int(input("Insira o segundo número: "))
+print()
+print("Resultado:")
+print(N1 * N2)
+print()
+print()
+print("Soma:")
+J3 = int(input("Digite o primeiro número:"))
+J2 = int(input("Digite o segundo número: "))
+print()
+print("Resultado:")
+print(J3 + J2)
+print()
+print()
+print("Descobrindo se o número é par")
+N3 = int(input("Digite um número:"))
+print(N3 % 2)
+print()
+if N3 % 2 == 1:
+    print()
+    print("Seu número é ÍMPAR!")
+else:
+    print("Seu número é PAR!")
+#Programa: onlinepython
+#Autor: Matheus Martins
+#Data: 18/02/22
